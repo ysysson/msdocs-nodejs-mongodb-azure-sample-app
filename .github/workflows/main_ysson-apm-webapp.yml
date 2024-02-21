@@ -59,4 +59,4 @@ jobs:
           app-name: 'ysson-apm-webapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32D2F4774C9F4D7D97C9C894CA60D00F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_505F998D73BE4F76823BFFAA67EF1B20 }}
